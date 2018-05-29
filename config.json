@@ -1,0 +1,32 @@
+{
+  "token": NDQwNDIyNDYxOTcyOTM4Nzcy.DembYg.ZhMNd4svpslA_ca2I5rZgu11gVE,
+  "client_id": 440422461972938772,
+  "youtube_api_key": AIzaSyA0O_fjBJsdKuqgqJErVinyQVyKj4q6hrM,
+  "prefix": ".",
+  "game": "<playing status on discord>",
+
+
+  "admins": {
+    "292871335305019394": "TechnologyHelpBundaberg"
+  },
+
+  "welcome": {
+      "enabled": true,
+      "message": "Welcome {user} to {server} :fox:",
+      "add_role": {
+        "enabled": false,
+        "role": "default"
+      }
+  },
+
+  "bot_channel": {
+    "enabled": false,
+    "channel": "bot",
+    "music": {
+      "channel": "music",
+      "maxQueueSize": 20
+    }
+  }
+
+
+}
