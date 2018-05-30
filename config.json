@@ -1,7 +1,7 @@
 {
-  "token": NDQwNDIyNDYxOTcyOTM4Nzcy.DembYg.ZhMNd4svpslA_ca2I5rZgu11gVE,
-  "client_id": 440422461972938772,
-  "youtube_api_key": AIzaSyA0O_fjBJsdKuqgqJErVinyQVyKj4q6hrM,
+  "token": NDUxMjkyMjgzNDM0OTU4ODY1.De_qNA.a1rAKRU9ZsbB_8nT-yfci2fFTz0
+  "client_id": 451292283434958865,
+  "youtube_api_key":
   "prefix": ".",
   "game": "<playing status on discord>",
 
@@ -11,7 +11,7 @@
   },
 
   "welcome": {
-      "enabled": true,
+      "enabled": false
       "message": "Welcome {user} to {server} :fox:",
       "add_role": {
         "enabled": false,
